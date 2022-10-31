@@ -5,8 +5,6 @@ import json
 import numpy as np
 import matplotlib.pyplot as plt
 
-from bivariate_gaussian import np_bivariate_normal_pdf
-
 
 visualise = True
 
